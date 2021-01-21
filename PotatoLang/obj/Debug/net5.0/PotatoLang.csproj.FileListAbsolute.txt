@@ -1,0 +1,14 @@
+D:\Rider Projects\PotatoLang\PotatoLang\bin\Debug\net5.0\PotatoLang.deps.json
+D:\Rider Projects\PotatoLang\PotatoLang\bin\Debug\net5.0\PotatoLang.dll
+D:\Rider Projects\PotatoLang\PotatoLang\bin\Debug\net5.0\ref\PotatoLang.dll
+D:\Rider Projects\PotatoLang\PotatoLang\bin\Debug\net5.0\PotatoLang.pdb
+D:\Rider Projects\PotatoLang\PotatoLang\obj\Debug\net5.0\PotatoLang.csprojAssemblyReference.cache
+D:\Rider Projects\PotatoLang\PotatoLang\obj\Debug\net5.0\PotatoLang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\PotatoLang\PotatoLang\obj\Debug\net5.0\PotatoLang.csproj.CoreCompileInputs.cache
+D:\Rider Projects\PotatoLang\PotatoLang\obj\Debug\net5.0\PotatoLang.dll
+D:\Rider Projects\PotatoLang\PotatoLang\obj\Debug\net5.0\ref\PotatoLang.dll
+D:\Rider Projects\PotatoLang\PotatoLang\obj\Debug\net5.0\PotatoLang.pdb
+D:\Rider Projects\PotatoLang\PotatoLang\bin\Debug\net5.0\PotatoLang.exe
+D:\Rider Projects\PotatoLang\PotatoLang\bin\Debug\net5.0\PotatoLang.runtimeconfig.json
+D:\Rider Projects\PotatoLang\PotatoLang\bin\Debug\net5.0\PotatoLang.runtimeconfig.dev.json
+D:\Rider Projects\PotatoLang\PotatoLang\obj\Debug\net5.0\PotatoLang.genruntimeconfig.cache

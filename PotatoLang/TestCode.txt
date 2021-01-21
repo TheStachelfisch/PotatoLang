@@ -1,0 +1,8 @@
+﻿TextPotato hello = "I'm text"
+TextPotato input = ""
+
+Shout hello // I'm a comment that gets removed by the pre-lexer
+
+input = Listen
+
+Shout input
