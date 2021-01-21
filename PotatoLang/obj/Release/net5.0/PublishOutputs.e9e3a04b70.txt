@@ -1,3 +1,0 @@
-D:\Rider Projects\PotatoLang\PotatoLang\bin\Release\net5.0\publish\PotatoLang.dll
-D:\Rider Projects\PotatoLang\PotatoLang\bin\Release\net5.0\publish\PotatoLang.deps.json
-D:\Rider Projects\PotatoLang\PotatoLang\bin\Release\net5.0\publish\PotatoLang.pdb
