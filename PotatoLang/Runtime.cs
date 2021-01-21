@@ -26,12 +26,13 @@ namespace PotatoLang
             watch.Start();
             
             var tokens = new Lexer.Lexer(test).Tokenize();
-
-            watch.Stop();
+            var parser = new Parser.Parser(tokens).Parse();
             
-            foreach (var token in tokens)
+            watch.Stop();
+
+            foreach (var statement in parser)
             {
-                Console.WriteLine(token.ToString());
+                Console.WriteLine(statement + "\n");
             }
             
             Console.WriteLine($"\nExecution took {watch.Elapsed.Seconds} Seconds and {watch.Elapsed.Milliseconds} Milliseconds");
